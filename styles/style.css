@@ -9,10 +9,11 @@ body {
   background-position: center center
 }
 
-.container {
-  background-color: rgba(255,255,255, 0.7)
+.container#cards {
+  margin: auto;
+  width: 25%;
 }
 
 img.tecla {
-  width: 40px;
+  max-height: 40px;
 }
