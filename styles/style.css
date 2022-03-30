@@ -2,7 +2,7 @@ body {
 
   background-image:
     linear-gradient(to bottom, rgb(28, 35, 36), rgba(7, 43, 13, 0.73)),
-    url('https://overproof.com/wp-content/uploads/2021/05/Bi-Reporting.jpg');
+    url('../pictures/Bi-Reporting.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -24,7 +24,7 @@ img.tecla {
   max-height: 40px;
 }
 
-div#intro p {
+div#intro p, label, h4 {
   font-size: 28pt;
   color:antiquewhite;
   font-weight: lighter;
